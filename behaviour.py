@@ -1,4 +1,4 @@
-error_message = 'Я вас не понимаю'
+error_message = 'Я вас не понимаю.'
 
 start_message_id = 'familiarity'
 first_message_id = 'familiarity'
